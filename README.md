@@ -1,0 +1,1 @@
+Simple website that contains links to several recipes.
